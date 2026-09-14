@@ -6,7 +6,7 @@ I am interested in using computational and data-driven methods to understand com
 
 ### 🔬 Research
 
-My research path started with my Bachelor's thesis on **opinion dynamics and information diffusion in networks**, where I used **stochastic processes, Markov chains and computational simulations** to study collective dynamics and convergence in the Voter Model.
+My research path started with my Bachelor's thesis on **opinion dynamics** and **information diffusion in networks**, where I used **stochastic processes**, **Markov chains** and **computational simulations** to study collective dynamics and convergence in the Voter Model.
 
 My Master's thesis, **“Hierarchical Structural Signatures of Human and LLM-Generated Discourse”**, investigates how human and LLM-generated texts differ in their hierarchical organization. I combined **Rhetorical Structure Theory** and **grammar-based tree compression** to identify recurrent structural patterns, which were also used to estimate the **proportion of AI-generated content at the corpus level through mixture proportion estimation**.
 
